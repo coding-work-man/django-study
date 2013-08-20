@@ -1,0 +1,4 @@
+django-study
+============
+
+learning django
